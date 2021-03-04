@@ -1,5 +1,5 @@
 import React from 'react';
-import '../pasta_JS/padrao_JS';
+// import '../pasta_JS/padrao_JS';
 import Rodape from './CorpoPagina/rodape';
 import btnCadastrarUsuario from './IMG/Botoes/btn_CadastrarUsuario.jpg';
 import btnManterEmprestimos from './IMG/Botoes/btn_ManterEmprestimos.jpg';
